@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.erickrodrigues
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: maven
+features: [ annotation-api, app-name, graalvm, http-client, junit, kafka, kotlin, kotlin-application, logback, maven, netty-server, reactor, reactor-http-client, readme, shade, testcontainers, yaml ]
